@@ -1,2 +1,2 @@
-# alien_invasion
+# alien-invasion
 A game in python that mimics the classic game 'Space Invaders'
